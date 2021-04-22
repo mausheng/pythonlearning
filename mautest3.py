@@ -27,4 +27,3 @@ print(mycar.left_back.size)
 
 
 
-fffffff
